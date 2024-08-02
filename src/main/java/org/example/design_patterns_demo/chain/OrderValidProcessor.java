@@ -7,8 +7,8 @@ import org.springframework.stereotype.Service;
 import java.util.Objects;
 
 /**
- * shein轨迹推送
- * @author shaoke
+ * 订单校验
+ * @author lgh
  * @desc AbstracbTracePush
  * @since 2024/6/12
  */

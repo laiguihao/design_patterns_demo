@@ -9,7 +9,7 @@ import java.util.Objects;
 
 /**
  * 订单入库通知下游系统
- * @author shaoke
+ * @author lgh
  * @desc AbstracbTracePush
  * @since 2024/6/12
  */
